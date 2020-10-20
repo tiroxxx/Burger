@@ -40,6 +40,7 @@ button:hover {
 }
 
 .devoured {
+  font-size: 30px;
   font-family: 'Shadows Into Light', cursive;
   color: #daa700;
   font-weight: bold;
